@@ -5,20 +5,28 @@
 
 In pursuing this project, we undertook the novel task of building a versatile World Engine 
 and an adrenaline rich, platform type game named Momentum from scratch.
+
+
 The World Engine, as the name suggests, facilitates in creating the worlds which is used in
 the various levels of the game. It brings together the background, foreground and game physics
 into one space. The World Engine enables the game developers to preview their creation ,animations
 and lets them let their imaginations run wild.
+
+
 The game Momentum is a platform type game where the objective is to complete a level in the 
 least time possible. It allows multiple users to login and have their credentials saved and
 retrieved whenever necessary. Momentum provides an immersive experience to the gamer,
-and provides the gamer with 3 unique worlds punctuated with dynamic weather elements .
- The gamer has the choice to immerse himself and run through the abandoned villages of Level 1, 
+and provides the gamer with 3 unique worlds punctuated with dynamic weather elements.
+
+
+The gamer has the choice to immerse himself and run through the abandoned villages of Level 1, 
 experience the lush and rainy tropical forests of level 2, or survive the silent but deadly desert of 
 level 3. The game awaits…….
 
 
 Guide :
+
+
 // Someone enter the controls here. Eg. Press W to jump.
 1. Extract the zip folder Momentum.zip.
 2. After extracting, enter the folder and click on StartHere.py
