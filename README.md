@@ -1,6 +1,8 @@
 # Momentum Game
 
-About:
+<h2>About:</h2>
+
+
 In pursuing this project, we undertook the novel task of building a versatile World Engine 
 and an adrenaline rich, platform type game named Momentum from scratch.
 The World Engine, as the name suggests, facilitates in creating the worlds which is used in
