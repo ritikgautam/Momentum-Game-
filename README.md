@@ -24,7 +24,7 @@ experience the lush and rainy tropical forests of level 2, or survive the silent
 level 3. The game awaits…….
 
 
-Guide :
+<h2>Guide :</h2>
 
 
 // Someone enter the controls here. Eg. Press W to jump.
